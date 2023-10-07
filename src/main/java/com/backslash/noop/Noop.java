@@ -1,7 +1,8 @@
 package com.backslash.noop;
 
 public class Noop {
-  static public void main(String[] args) {
-    System.out.println("Hi ");
-  }
+    static public String noop() {
+	System.out.println("Hi, in noop ");
+	return "string returned from noop";
+    }
 }
