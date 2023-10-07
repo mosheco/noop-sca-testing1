@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.backslash</groupId>
 	<artifactId>noop</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<name>noop</name>
 	<description>NOOP package for SCA testing</description>
 	<properties>
