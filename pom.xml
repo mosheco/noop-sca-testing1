@@ -22,6 +22,14 @@
     </license>
   </licenses>
   
+  <developers>
+    <developer>
+      <name>Moshe Cohen</name>
+      <email>norby@gmail.com</email>
+      <organizationUrl>https://github.com/mosheco</organizationUrl>
+    </developer>
+   </developers>
+   
   <scm>
     <url>https://github.com/mosheco/noop-sca-testing1</url>
   </scm>
